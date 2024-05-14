@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+baseURL = 'https://RDLigeralde.github.io/Budget-Patrol-Landing/'
+title = "Budget Patrol"
+author = "CIS 3500 S2024 Team 8"
+copyright = "CIS 3500 S2024 Team 8"
 
 timeZone = 'Europe/London'
 
