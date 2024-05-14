@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Budget Patrol</title>
+    <link>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/</link>
+    <description>Recent content in Categories on Budget Patrol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS 3500 S2024 Team 8</copyright>
+    <lastBuildDate>Mon, 13 May 2024 22:16:07 -0500</lastBuildDate>
+    <atom:link href="https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Release Notes</title>
+      <link>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/hugo-release-notes/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/hugo-release-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Bootstrap Blog</title>
+      <link>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/the-bootstrap-blog/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
+      <guid>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/the-bootstrap-blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo Bootstrap Theme</title>
+      <link>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://RDLigeralde.github.io/Budget-Patrol-Landing/categories/hugo-bootstrap-theme/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Budget Patrol</title>
+    <link>https://RDLigeralde.github.io/Budget-Patrol-Landing/series/</link>
+    <description>Recent content in Series on Budget Patrol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS 3500 S2024 Team 8</copyright>
+    <atom:link href="https://RDLigeralde.github.io/Budget-Patrol-Landing/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
